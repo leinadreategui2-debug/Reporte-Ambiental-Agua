@@ -1,0 +1,46 @@
+etapa,componente ambiental,nombre del punto,este,norte,zona,datum,descripción de ubicación,tipo de análisis,fecha,valor,parámetro,unidad de medida
+Segundo monitoreo,Agua,PZ-19,359360,8817093,18,WGS84,Piezómetro ubicado sobre el dique del PAM depósito de relaves Quiulacocha,Fisico Químicos,27/09/2020,573.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,P19,359359,8817089,18,WGS84 ,"Piezómetro ubicado sobre el
+dique en la zona oeste",Fisico Químicos,23/08/2020,967.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,P13,360787,8817202,18,WGS84 ,"Piezómetro ubicado al este de la
+parte alta del depósito de relave
+Quiulacocha.",Fisico Químicos,23/08/2020,1087.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,RRagr-2,359173,8816898,18,WGS84 ,"Río Ragra, canal izquierdo, aprox. a 40 m antes de la descarga al rio Ragra",Fisico Químicos,17/08/2020,670.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,PC-01,359022,8816961,18,WGS84 ,"Río Ragra, a aproximadamente 100 metros aguas arriba del punto de vertimiento EO-01 y a 500 metros al este del dique del depósito de relaves Ocroyoc.",Parámetros Fisicoquímicos,10/08/2020,540.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,PC-01,359022,8816961,18,WGS84 ,"Río Ragra, a aproximadamente 100 metros aguas arriba del punto de vertimiento EO-01 y a 500 metros al este del dique del depósito de relaves Ocroyoc.",Fisico Químicos,10/08/2020,540.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,PZ02-16,Confidencial,Confidencial,Confidencial,Confidencial,Confidencial,Otros Parámetros Fisico Químicos,3/05/2019,395.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,AS-21,Confidencial,Confidencial,Confidencial,Confidencial,Confidencial,Otros Parámetros Fisico Químicos,3/05/2019,22936.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,V-12,266877,8670974,18,WGS84,"Descarga de agua residual a la playa Acapulco
+(tubería color naranja) en zona de acumulación de residuos sólidos líquidos",Fisico Químicos,11/03/2019,2576.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,V-1,266799,8671049,18,WGS84,"Tubería negra de descarga de agua residual a
+la playa Acapulco, a 480 m al norte de colector de agua residual",Fisico Químicos,11/03/2019,1535.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,V-4,267076,8671560,18,WGS84,Descarga de agua residual a la playa Alcides Carrión (tubería enterrada),Fisico Químicos,6/03/2019,7874.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,V-13,267171,8672190,18,WGS84,Tubería naranja enterrada en la arena de la playa Las Fertizas,Fisico Químicos,27/02/2019,1867.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,EFLU-01,379520,8706555,18,WGS84 ,"Efluente de la poza de relave de Volcan Compañía Minera S.A., ubicado aproximadamente a 5 m de la confluencia con el río Rumichaca.",Fisico Químicos,8/09/2018,2206.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,PZ-10,242812,8347296,19,WGS84 ,"Piezómetro ubicado al norte del botadero Norte, margen izquierda del río Cañipia.",Parámetros Fisicoquímicos,13/08/2018,447.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,ASB-119,221912,8160759,19,WGS84 ,"Piezómetro ubicado en la cuenca Linga, aproximadamente a 1,2 km al suroeste del dique del depósito de relaves Linga, y a 280 metros al suroeste del afloramiento AFL-01.",Parámetros Fisicoquímicos,25/07/2018,720.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,ASB-111,226259,8 166 576,19,WGS84 ,"Piezómetro ubicado en la cuenca Linga, al noreste del depósito de relaves Linga.",Parámetros Fisicoquímicos,24/07/2018,414.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,ASB-85,220634,8173467,19,WGS84 ,"Piezómetro ubicado en la cuenca Enlozada, aproximadamente a 170 metros al oeste del estribo izquierdo del depósito de relaves Enlozada.",Parámetros Fisicoquímicos,20/07/2018,305.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,ASB-03,221018,8174651,19,WGS84 ,"Piezómetro ubicado en la cuenca Enlozada, al pie del dique del depósito de relaves Enlozada.",Parámetros Fisicoquímicos,20/07/2018,290.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASB-16,226028,8169441,19,WGS84 ,"Piezómetro ubicado en la cuenca Huayrondo, aproximadamente a 50 metros de las pozas PLS del Pad de lixiviación 4A.",Parámetros Fisicoquímicos,4/05/2018,329.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,AS-80,378315,8713908,18,WGS84 ,"Quebrada sin nombre 3, ubicado aproximadamente a 300 m aguas abajo del vertimiento de la poza de agua de contacto, dentro de la concesión del titular de la Compañía Minera Pomatarea S.A.C.",Fisico Químicos,28/04/2018,252.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASB-74,228214,8165684,19,WGS84 ,"Piezómetro ubicado en la cuenca Linga, al noreste del depósito de relaves Linga.",Parámetros Fisicoquímicos,26/04/2018,297.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,EF-01,Confidencial,Confidencial,Confidencial,Confidencial,Confidencial,Fisico Químicos,23/04/2018,473.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ADR-04,243692,8344632,19,WGS84 ,Agua de mina del Tajo Sur (área de operaciones Antapaccay).,Parámetros Fisicoquímicos,26/03/2018,2727.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,Asub-01,284928,8872280,18,WGS 84,Ubicado a 140 m al noroeste de la base del depósito de desmonte nivel 4 000 y aproximadamente a 85 m al oeste de las pozas de sedimentación,Fisioquímicos,11/03/2018,380.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,Asub-02,286017,8872594,18,WGS 84,Ubicado aproximadamente a 150 m al oeste del depósito de rocas reactivas,Fisioquímicos,11/03/2018,862.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,QSanAB-02,308368,8844460,18,WGS84,"Flujo de agua aportante a la laguna Santa Ana Baja, proveniente de zona donde se ubica la laguna Niñococha",Fisico Químicos,29/09/2017,438.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,AS-05,497328,9460095,17,WGS84 ,"Río Chira, agua arriba de las actividades de Olympic,  la altura de la instalación LB-01",Otros Parámetros Fisico Químicos,16/03/2017,1720.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,AS-06,489138,9460459,17,WGS84 ,"Río Chira, aguas abajo del punto AS-05 ubicado a 280 m aproximadamente del pozo 154.",Otros Parámetros Fisico Químicos,16/03/2017,1455.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,AS-07,486552,9459022,17,WGS84 ,"Río Chira, aguas abajo del punto AS-06, ubicado a 370 m aproximadamente de los pozos PN-73 y PN-100",Otros Parámetros Fisico Químicos,16/03/2017,955.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,RCH-01,486369,9458563,17,WGS84 ,"Río Chira, aguas abajo del punto AS-07, ubicado a 2500 m aproximadamente antes de la desembocadura al mar",Otros Parámetros Fisico Químicos,16/03/2017,438.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASL-1,333587,9291205,18,WGS84,"Q. Tole, aguas debajo de la descarga del camal municipal, aproximandamente a 130 m despues de la confluencia con la Q. camaleón",Fisico Químicos,24/02/2020,362.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASL-2,333465,9291278,18,WGS84,"Q. Tole, aproximadamente 25 m antes de la intersección con la Q. camaleón",Fisico Químicos,24/02/2020,256.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASL-3,333423,9291247,18,WGS84,"Quebrada Camaleón, aguas debajo de la descarga del camal municipal, aproximadamente a 30 m antes de la confluencia de la Q. Tole",Fisico Químicos,24/02/2020,415.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASL-4,333253,9291168,18,WGS84,"Quebrada Camaleón,  aproximadamente a 60 m aguas arriba de la confluencia con la Q. S/N 3(contiene descarga del camal municipal)",Fisico Químicos,24/02/2020,320.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,ASL-9,333307,9291186,18,WGS84,"Q. S/N antes de la confluencia con la Q. camaleón, agua combinada con la descarga del camal.",Fisico Químicos,24/02/2020,453.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,RDI-01,295272,8681066,18,WGS84,Sgua residual industrial (Lixiviado) del canal proveniente de la tercera plataforma de disposicion final de residuos solidos,Fisico Químicos,23/07/2020,590.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,RDI-02,295434,8680734,18,WGS84,"Agua residual industrial (Lixiviado) del canal de alimentacion de la poza de lixiviados, 2 metros antes del punto de contacto con la poza, altura de la segunda plataforma de disposicion final de residuos solidos.",Fisico Químicos,23/07/2020,480.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,RDI-04,295413,8680877,18,WGS84,Dren de lixiviados,Fisico Químicos,25/08/2020,720.0,Sólidos Suspendidos Totales,mg/L
+Segundo monitoreo,Agua,RDI-06,296463,8680794,18,WGS84,Poza de aguas industriales/lixiviados,Fisico Químicos,25/08/2020,267.0,Sólidos Suspendidos Totales,mg/L
+Primer monitoreo,Agua,AR-1,766585,8993926,17,WGS84,"Punto ubicado al final de la calle Huánuco, cruce con la línea de playa, a 10 m del buzón de aguas residuales domésticas",Fisico Químicos,23/07/2020,860.0,Sólidos Suspendidos Totales,mg/L
